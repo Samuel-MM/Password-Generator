@@ -1,0 +1,1 @@
+This is a password generator page that uses HTML, CSS & JavaScript
